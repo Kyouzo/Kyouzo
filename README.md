@@ -18,7 +18,7 @@ I'm Kyo, a first-year BSIT student at Eastern Visayas State University. I enjoy 
 - Defensive security fundamentals and authorized lab work
 - Android development and practical developer tools
 
-### technologies & areas I'm exploring
+### technologies & areas I'm exploring and experienced at
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,c,cpp,python,rust,swift,js,php,ts,git&theme=dark" alt="Kotlin, Android Studio, C, C++, Python, Rust, Swift, JavaScript, PHP, TypeScript, Git">
