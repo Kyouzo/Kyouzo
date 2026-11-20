@@ -1,6 +1,6 @@
 # Kyouzo
 
-First-year BSIT student in the Philippines, interested in programming, software reverse engineering, modding, and practical developer tools. I have been programming since Grade 9.
+First-year BSIT student at Eastern Visayas State University, interested in programming, software reverse engineering, modding, and practical developer tools. I have been programming since Grade 9.
 
 ## Featured project
 
