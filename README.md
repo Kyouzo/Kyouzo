@@ -6,7 +6,7 @@ I'm Kyo, a first-year BSIT student at Eastern Visayas State University. I've bee
 
 My interests primarily revolve around software reverse engineering, program analysis, and defensive security. While I have an established foundation in programming and development, I'm continuously expanding my understanding of computer science concepts, software internals, and low-level systems through both academic studies and independent research.
 
-«I focus on authorized analysis, educational research, and defensive learning.»
+I focus on authorized analysis, educational research, and defensive learning.
 
 ---
 
@@ -61,7 +61,9 @@ reverse engineering & analysis
   <img src="https://img.shields.io/badge/GDB-Debugger-FCC624?style=for-the-badge" alt="GDB">
   <img src="https://img.shields.io/badge/dnSpyEx-.NET%20Analysis-512BD4?style=for-the-badge" alt="dnSpyEx">
   <img src="https://img.shields.io/badge/APKTool-Android%20Reverse%20Engineering-4CAF50?style=for-the-badge" alt="APKTool">
-</p>---
+</p>
+
+---
 
 <p align="center">
   <sub>Understanding software beyond the surface.</sub>
