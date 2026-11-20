@@ -2,20 +2,21 @@
   <img src="https://raw.githubusercontent.com/Kyouzo/Kyouzo/main/banner.jpg" alt="Kyo - software analysis and reverse engineering" width="100%">
 </p><p align="center"><strong>BSIT STUDENT | REVERSE ENGINEERING</strong></p>about
 
-I'm Kyo, a first-year BSIT student at Eastern Visayas State University. I enjoy understanding how software works under the hood and building practical applications and tools.
+I'm Kyo, a first-year BSIT student at Eastern Visayas State University. I've been studying programming and reverse engineering since Grade 6, gaining practical experience through independent learning, software analysis, experimentation, and building applications and tools.
 
-I'm currently exploring software analysis and reverse engineering, with a growing interest in defensive security.
+My interests primarily revolve around software reverse engineering, program analysis, and defensive security. While I have an established foundation in programming and development, I'm continuously expanding my understanding of computer science concepts, software internals, and low-level systems through both academic studies and independent research.
 
-I focus on authorized analysis, educational research, and defensive learning.
+«I focus on authorized analysis, educational research, and defensive learning.»
 
 ---
 
 areas of interest
 
 - Software reverse engineering and program analysis
-- Defensive security fundamentals and authorized lab work
+- Defensive security and authorized security research
 - Android development and practical developer tools
 - Binary analysis, debugging, and dynamic instrumentation
+- Low-level programming and software internals
 
 ---
 
@@ -60,10 +61,8 @@ reverse engineering & analysis
   <img src="https://img.shields.io/badge/GDB-Debugger-FCC624?style=for-the-badge" alt="GDB">
   <img src="https://img.shields.io/badge/dnSpyEx-.NET%20Analysis-512BD4?style=for-the-badge" alt="dnSpyEx">
   <img src="https://img.shields.io/badge/APKTool-Android%20Reverse%20Engineering-4CAF50?style=for-the-badge" alt="APKTool">
-</p>
-
----
+</p>---
 
 <p align="center">
-  <sub>Learning, experimenting, and understanding software one layer at a time.</sub>
+  <sub>Understanding software beyond the surface.</sub>
 </p>
