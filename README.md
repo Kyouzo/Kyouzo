@@ -6,7 +6,7 @@ I'm Kyo, a first-year BSIT student at Eastern Visayas State University. I enjoy 
 
 I'm currently exploring software analysis and reverse engineering, with a growing interest in defensive security.
 
-«I focus on authorized analysis, educational research, and defensive learning.»
+I focus on authorized analysis, educational research, and defensive learning.
 
 ---
 
