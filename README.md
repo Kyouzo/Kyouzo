@@ -1,15 +1,17 @@
-# Hi, I am Kyouzo
+# Kyouzo
 
-Software developer working across Kotlin, JavaScript, C++, C, Python, and TypeScript.
+First-year BSIT student in the Philippines, interested in programming, software reverse engineering, modding, and practical developer tools. I have been programming since Grade 9.
 
-## Featured Projects
+## Featured project
 
-- [LNUDormatorySystem](https://github.com/Kyouzo/LNUDormatorySystem) - Dormitory management system built with JavaScript
-- [Solace](https://github.com/Kyouzo/Solace) - Kotlin application for Android development exploration
-- [ImageConverter](https://github.com/Kyouzo/ImageConverter) - Kotlin image conversion utility
-- [LogicLab](https://github.com/Kyouzo/LogicLab) - Kotlin logic and number exercises
-- [NumberSystemConverter](https://github.com/Kyouzo/NumberSystemConverter) - Kotlin number system conversion utility
+- [LNU Dormitory System](https://github.com/Kyouzo/LNUDormatorySystem) - A demo dormitory portal built with PHP, MySQL, HTML, CSS, and JavaScript.
 
-## Languages and Tools
+## Interests
 
-`Kotlin` `JavaScript` `C++` `C` `Python` `TypeScript` `Android` `Git`
+- Software reverse engineering and modding
+- Building useful applications and developer tools
+- Learning through hands-on projects
+
+## Languages
+
+`Kotlin` `JavaScript` `C++` `C` `PHP` `Python` `TypeScript`
