@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kyouzo/Kyouzo/main/banner.svg" alt="Kyo - software analysis and reverse engineering" width="100%">
+  <img src="https://raw.githubusercontent.com/Kyouzo/Kyouzo/main/banner.jpg" alt="Kyo - software analysis and reverse engineering" width="100%">
 </p>
 
 <p align="center"><strong>BSIT STUDENT | REVERSE ENGINEERING | SOFTWARE ANALYSIS</strong></p>
