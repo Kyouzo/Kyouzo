@@ -23,11 +23,12 @@ areas of interest
 technologies & tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,c,cpp,python,rust,swift,js,php,ts,git&theme=dark" alt="Programming languages and development tools">
-</p>Languages
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,kotlin,swift,js,ts,html,css,php,sql&theme=dark" alt="Programming languages and web technologies">
+</p>Languages & Web Technologies
 
-- Kotlin • C • C++ • Python • Rust
-- Swift • JavaScript • TypeScript • PHP • SQL
+- C • C++ • C# • Python • Rust
+- Kotlin • Swift • JavaScript • TypeScript
+- HTML • CSS • PHP • SQL
 
 Backend & APIs
 
@@ -42,9 +43,14 @@ Databases
 
 - SQLite • PostgreSQL • Redis
 
-Development Tools
+IDEs & Development Tools
 
-- Android Studio • Docker • Git
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,docker&theme=dark" alt="VS Code, Visual Studio, Android Studio, Git and Docker">
+</p>- Visual Studio Code
+- Visual Studio
+- Android Studio
+- Git • Docker
 
 ---
 
