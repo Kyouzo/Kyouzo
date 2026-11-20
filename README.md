@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I am Kyouzo
 
-<!--
-**Kyouzo/Kyouzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer working across Kotlin, JavaScript, C++, C, Python, and TypeScript.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LNUDormatorySystem](https://github.com/Kyouzo/LNUDormatorySystem) - Dormitory management system built with JavaScript
+- [Solace](https://github.com/Kyouzo/Solace) - Kotlin application for Android development exploration
+- [ImageConverter](https://github.com/Kyouzo/ImageConverter) - Kotlin image conversion utility
+- [LogicLab](https://github.com/Kyouzo/LogicLab) - Kotlin logic and number exercises
+- [NumberSystemConverter](https://github.com/Kyouzo/NumberSystemConverter) - Kotlin number system conversion utility
+
+## Languages and Tools
+
+`Kotlin` `JavaScript` `C++` `C` `Python` `TypeScript` `Android` `Git`
