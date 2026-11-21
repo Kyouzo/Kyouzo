@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Kyouzo/Kyouzo/main/banner.jpg" alt="Kyo - software analysis and reverse engineering" width="100%">
 </p><p align="center"><strong>BSIT STUDENT | REVERSE ENGINEERING</strong></p>about
 
-I'm Kyo, a first-year BSIT student at Eastern Visayas State University. I've been studying programming and reverse engineering since Grade 6, gaining practical experience through independent learning, software analysis, experimentation, and building applications and tools.
+I'm Kyo, a first-year BSIT student at Eastern Visayas State University. I've been studying programming and reverse engineering for 7 years, gaining practical experience through independent learning, software analysis, experimentation, and building applications and tools.
 
 My interests primarily revolve around software reverse engineering, program analysis, and defensive security. While I have an established foundation in programming and development, I'm continuously expanding my understanding of computer science concepts, software internals, and low-level systems through both academic studies and independent research.
 
